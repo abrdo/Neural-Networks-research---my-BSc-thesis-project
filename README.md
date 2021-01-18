@@ -18,7 +18,7 @@ Gyakorlati kutatásom célkitűzése olyan módszer kutatása volt, mely javítj
 Kutatásom másik részeként a Matching Network hálózatarchitektúrával foglalkoztam. Kimutattam, hogy a neurális háló kimenete nagy mértékben függ a support halmaz választásától. Ebből következik, hogy a support halmaz elemeinek véletlenszerű választása helyett található egy olyan optimális support halmaz, mellyel a klasszifikáció lényegesen jobb lesz a véletlenszerűen generáltnál. A pontosság javulásának mértéke átlagosan 20% körüli.
 
 
-##Abstract
+## Abstract
 
 In recent years adoption of neural networks for machine learning succeeded in many area of science. This programming method is efficient, in cases when have lots of training samples; however, if the number of the samples decreases, the accuracy will fall down significantly. I am showing empirical evidence tho this phenomenon in the thesis. In contrast to this, however, human learning can solve such tasks easily, so people do not need thouands of samples to synthetize abstrakt features from a set.
 
