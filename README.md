@@ -2,6 +2,7 @@
 
 ## Publication about the first part of my research:
 "Applying the Standard Non-linearity of Cellular Neural Networks in Convolutional Networks"
+
 https://ieeexplore.ieee.org/document/8470498
 
 
